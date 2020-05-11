@@ -11,7 +11,7 @@ Key features, I made this design around:
 + use of aluminum extrusion and basic accessories
 + be suitable for V-slot sliders or linear rails
 + easy to enclose
-+ be easily customizable
++ be easily customizable for any size
 + cheap
 
 Project is designed in Fusion 360.
