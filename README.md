@@ -38,3 +38,9 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 - Archie delta robot compatible design. https://www.thingiverse.com/thing:3489886
 
 *_If you don't have ability to use Fusion 360, please, feel free to request design needed via "Issues". I will try ti generate .step for you._*
+
+
+# TODO
+- Complete model of my own delta.
+- Complete BOM for my version.
+- Building instructions.
