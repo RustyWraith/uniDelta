@@ -36,6 +36,7 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 - ring of 2020 extrusions on the bottom are optional. If you will choose not use them I recommend to fasten 2040 ring with not one, but two L-brakets to each vertical stand
 - I would recommend to use OpenBuilds type of L-brakets to fasten bottom ring to vertical stands (6 pcs.) because of their strict 10x10x10 dimensions and 90 deg. edges. It will keep geometry strict. However, you can get away with using any type of plates and brackets in other connections. Get cheap ones or 3d-print them.
 - Archie delta robot compatible design. https://www.thingiverse.com/thing:3489886
+- I advise to use v-slot for vertical 2040. Then it will be compatible with v-slot carriage in case of modification or selling.
 
 *_If you don't have ability to use Fusion 360, please, feel free to request design needed via "Issues". I will try ti generate .step for you._*
 
