@@ -61,7 +61,7 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 - [Openbuilds L-type 3-slot](https://aliexpress.com/item/32843660148.html) **x6**
 - [L-type bracket 3-slot](https://www.soberizavod.ru/catalog/uglovye_soediniteli_seriya_20/ugolok_20kh60l_paz_6_m52/) **x3**
 - [L-type btacket 1-slot](https://www.soberizavod.ru/catalog/uglovye_soediniteli_seriya_20/ugolok_20kh20l_paz_6_m51/) **x12**
-- [L-type plate]https://www.soberizavod.ru/catalog/g_obraznye_seriya_20/g_soedinitel_40kh60v_paz_6_l60/) **x2**
+- [L-type plate](https://www.soberizavod.ru/catalog/g_obraznye_seriya_20/g_soedinitel_40kh60v_paz_6_l60/) **x2**
 - [T-type plate](https://www.soberizavod.ru/catalog/t_obraznye_seriya_20/t_soedinitel_40kh50v_paz_6_l69/) **x1**
 - [2-slot plate](https://www.soberizavod.ru/catalog/pryamougolnye_seriya_20/soedinitel_20kh40_paz_6_m45/) **x2**
 - [motor plate](https://aliexpress.com/item/32813261164.html) **x3**
