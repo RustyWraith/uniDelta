@@ -1,4 +1,4 @@
-# uniDelta (Work In Progress)
+# uniDelta
 Parametric and scalable design of a delta 3d-printer frame.
 
 # Preview
@@ -40,8 +40,52 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 
 *_If you don't have ability to use Fusion 360, please, feel free to request design needed via "Issues". I will try ti generate .step for you._*
 
-
+# Bill of materials
+## 300x800mm kossel delta frame
+### Aluminum extrusion
+- [2020](https://www.soberizavod.ru/catalog/seriya_20_obychnyy_paz/profil_konstruktsionnyy_20kh20l_bez_pokrytiya/)
+  - 398mm **x6**
+  - 168mm **x3**
+  - 136mm **x1**
+  - 134mm **x6**
+- [2040](https://www.soberizavod.ru/catalog/seriya_20_obychnyy_paz/profil_konstruktsionnyy_20kh40l_bez_pokrytiya/)
+  - 398mm **x3**
+  - 168mm **x3**
+  - 134mm **x3**
+  - 800mm ([v-slot](https://www.soberizavod.ru/catalog/seriya_20_v_paz/profil_konstruktsionnyy_v20kh40l_bez_pokrytiya/)) x3
+- [2060](https://www.soberizavod.ru/catalog/seriya_20_obychnyy_paz/profil_konstruktsionnyy_20kh60l_bez_pokrytiya/)
+  - 800mm **x3**
+- [Tools to control angles](https://aliexpress.com/item/4000784066824.html)
+### Plates and brackets
+- [60 degree plate](https://www.soberizavod.ru/catalog/pod_uglom_seriya_20/u_soedinitel_60_gradusov_4_otv_paz_6_l57/) **x30**
+- [Openbuilds L-type 3-slot](https://aliexpress.com/item/32843660148.html) **x6**
+- [L-type bracket 3-slot](https://www.soberizavod.ru/catalog/uglovye_soediniteli_seriya_20/ugolok_20kh60l_paz_6_m52/) **x3**
+- [L-type btacket 1-slot](https://www.soberizavod.ru/catalog/uglovye_soediniteli_seriya_20/ugolok_20kh20l_paz_6_m51/) **x12**
+- [L-type plate]https://www.soberizavod.ru/catalog/g_obraznye_seriya_20/g_soedinitel_40kh60v_paz_6_l60/) **x2**
+- [T-type plate](https://www.soberizavod.ru/catalog/t_obraznye_seriya_20/t_soedinitel_40kh50v_paz_6_l69/) **x1**
+- [2-slot plate](https://www.soberizavod.ru/catalog/pryamougolnye_seriya_20/soedinitel_20kh40_paz_6_m45/) **x2**
+- [motor plate](https://aliexpress.com/item/32813261164.html) **x3**
+### Kinematics
+- [MGN12H](https://aliexpress.com/item/32787326334) 550mm **x3**
+- GT2 Gates timing belt **3 meters**
+- GT2 Gates timing belt (for flying extruder lift, take cheapest)  **2 meters**
+- M5x55 bolts (for top idlers) **x3**
+- M5x30 bolts (for flying extruder lift) **x2**
+- [Rubber band 4mm](https://aliexpress.com/item/32882540825.html) **4 meters**
+- Arms **x6**
+  - [Magballs](https://duet3d.com/BallStudEnds) **x12**
+  - Carbon fiber tubes, 318mm (8mmOD, 6mmID) **x12**
+  - [Cup magnets B16](https://aliexpress.com/item/32966899291.html) **x12**
+  - [M4 inserts](https://aliexpress.com/item/32811461060.html) **x12**
+- Fastners
+  - [M5x8](https://aliexpress.com/item/32811776016.html) **x300**
+  - M5x12 **x6**
+  - [M3 assorted](https://aliexpress.com/item/32831757502.html) **x1**
+  - [M3x8](https://aliexpress.com/item/32769412937) **x30**
+  - [M5 alum washers openbuilds 6.35mm](https://aliexpress.com/item/32753534988.html) **x6**
+  - [M5 t-nuts](https://aliexpress.com/item/32706324351.html) **x300**
+  - M3 t-nuts **x50**
+  - M3 and M5 regular nuts and washers
+  
 # TODO
-- Complete model of my own delta.
-- Complete BOM for my version.
 - Building instructions.
