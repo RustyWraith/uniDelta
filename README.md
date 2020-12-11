@@ -77,7 +77,7 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 - GT2 20t Idler Pulley 5mm bore **x3**
 - Arms **x6**
   - [Magballs](https://duet3d.com/BallStudEnds) **x12**
-  - Carbon fiber tubes, 318mm (5mm Inner Diameter) or (3mmID to use without M3 inserts) **x12**
+  - Carbon fiber tubes, 318mm (5mm Inner Diameter) or (2mmID to use without M3 inserts, not recommended) **x12**
   - [Cup magnets B16](https://aliexpress.com/item/32966899291.html) **x12**
   - [M3 inserts (for 5mm ID carbon tube)](https://aliexpress.com/item/32811461060.html) **x12**
 - Fastners
