@@ -55,7 +55,7 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
   - 800mm ([v-slot](https://www.soberizavod.ru/catalog/seriya_20_v_paz/profil_konstruktsionnyy_v20kh40l_bez_pokrytiya/)) x3
 - [2060](https://www.soberizavod.ru/catalog/seriya_20_obychnyy_paz/profil_konstruktsionnyy_20kh60l_bez_pokrytiya/)
   - 800mm **x3**
-- [Tools to control angles](https://aliexpress.com/item/4000784066824.html)
+- [Tools to control angles](https://aliexpress.ru/item/4000766779600.html)
 ### Plates and brackets
 - [60 degree plate](https://www.soberizavod.ru/catalog/pod_uglom_seriya_20/u_soedinitel_60_gradusov_4_otv_paz_6_l57/) **x30**
 - [Openbuilds L-type 3-slot](https://aliexpress.com/item/32843660148.html) **x6**
