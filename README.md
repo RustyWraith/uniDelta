@@ -67,12 +67,14 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 - [motor plate](https://aliexpress.com/item/32813261164.html) **x3**
 - [4040 plate (to move motors closer to stands)](https://www.soberizavod.ru/catalog/pryamougolnye_seriya_20/soedinitel_40kh40_paz_6_m48/) **x3**
 ### Kinematics
-- [MGN12H](https://aliexpress.com/item/32787326334) 500mm **x3**
-- GT2 Gates timing belt **3 meters**
+- [MGN12H with rail](https://aliexpress.com/item/32787326334) 500mm **x3**
+- GT2 Gates timing belt **5 meters**
 - GT2 Gates timing belt (for flying extruder lift, take cheapest)  **2 meters**
 - M5x55 bolts (for top idlers) **x3**
 - M5x30 bolts (for flying extruder lift) **x2**
 - [Rubber band 4mm](https://aliexpress.com/item/32882540825.html) **4 meters**
+- GT2 20t Pulley 5mm bore **x3**
+- GT2 20t Idler Pulley 5mm bore **x3**
 - Arms **x6**
   - [Magballs](https://duet3d.com/BallStudEnds) **x12**
   - Carbon fiber tubes, 318mm (8mmOD, 6mmID) **x12**
@@ -83,7 +85,7 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
   - M5x12 **x6**
   - [M3 assorted](https://aliexpress.com/item/32831757502.html) **x1**
   - [M3x8](https://aliexpress.com/item/32769412937) **x30**
-  - [M5 alum washers openbuilds 6.35mm](https://aliexpress.com/item/32753534988.html) **x6**
+  - [M5 alum washers openbuilds 6.35mm](https://aliexpress.com/item/32753534988.html) **x18**
   - [M5 t-nuts](https://aliexpress.com/item/32706324351.html) **x300**
   - M3 t-nuts **x50**
   - M3 and M5 regular nuts and washers
