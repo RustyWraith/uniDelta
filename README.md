@@ -65,8 +65,9 @@ Now about sad things. Fusion 360 is limited in a way how parameters are calculat
 - [T-type plate](https://www.soberizavod.ru/catalog/t_obraznye_seriya_20/t_soedinitel_40kh50v_paz_6_l69/) **x1**
 - [2-slot plate](https://www.soberizavod.ru/catalog/pryamougolnye_seriya_20/soedinitel_20kh40_paz_6_m45/) **x2**
 - [motor plate](https://aliexpress.com/item/32813261164.html) **x3**
+- [4040 plate (to move motors closer to stands)](https://www.soberizavod.ru/catalog/pryamougolnye_seriya_20/soedinitel_40kh40_paz_6_m48/) **x3**
 ### Kinematics
-- [MGN12H](https://aliexpress.com/item/32787326334) 550mm **x3**
+- [MGN12H](https://aliexpress.com/item/32787326334) 500mm **x3**
 - GT2 Gates timing belt **3 meters**
 - GT2 Gates timing belt (for flying extruder lift, take cheapest)  **2 meters**
 - M5x55 bolts (for top idlers) **x3**
